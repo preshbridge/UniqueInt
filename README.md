@@ -1,5 +1,5 @@
 # UniqueInt
-DSA HW01 - UniqueInt
+DSA HW01 - UniqueInt:-
 
 This project is part of an assignment for Enterprise Web Development, it's focusing on data structures and algorithms. 
 
